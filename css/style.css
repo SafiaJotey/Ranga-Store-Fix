@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
@@ -5,6 +7,14 @@ body {
   
   
  
+}
+#header{
+  font-size: 48px;
+  font-family: 'Dancing Script', cursive;
+  color: rgb(255, 174, 0);
+  font-weight:700;
+  text-align: center;
+  margin: 20px;
 }
 .search-field {
   border: none;
