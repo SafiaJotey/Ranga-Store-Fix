@@ -1,6 +1,4 @@
-/*const inputfield=document.getElementById('input-field');
-const inputValue=inputfield.value;
-console.log(inputValue); */ 
+const url="https://fakestoreapi.com/products" ;
 const loadProducts = () => {
   
 
